@@ -7,7 +7,7 @@ const App = () => {
 		<div className="App">
 			<CommentsListContainer />
 			<DevTools />
-    	</div>
+		</div>
   	);
 };
 
